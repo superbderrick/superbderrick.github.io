@@ -7,8 +7,8 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url:https://superbderrick.github.io/Resume/
-author: Derrick
+url: http://superbderrick.github.io/Resume
+author: Fábio Madeira
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
